@@ -1,6 +1,7 @@
 # Witaj w moim projekcie:
 Testowe repo
-##Opis projektu##
+##Opis projektu
+
 ##Uwaga Ważne##
 #Raz#
 #Dwa#
